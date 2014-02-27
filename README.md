@@ -5,7 +5,7 @@ Easy-to-deploy contact forms powered by Go and Mailgun
 ## Install
 
 ```sh
-$ go install github.com/marksteve/go-contact/contact
+$ go get github.com/marksteve/go-contact/contact
 ```
 
 ## Run
